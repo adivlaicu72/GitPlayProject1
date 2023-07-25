@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author adivlaicu
+ *
+ */
+module GitPlayProject {
+}
